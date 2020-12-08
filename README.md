@@ -1,2 +1,5 @@
 # hello-world
-Ideas &amp; Resources
+
+Hi!
+
+My name is Caeden and I am 19 years old. I like music and tacos.
